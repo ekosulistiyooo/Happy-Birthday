@@ -1,2 +1,2 @@
 # Membangun aplikasi sederhana dengan composable teks
-<img src="gambar/contoh.png" width="300" />
+<img src="Screenshot_20241003_225104.png" width="300"/>
